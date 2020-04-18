@@ -4,9 +4,9 @@ A manual maven for library mods on Serilum's CurseForge.
 To add the repository to your project, add this to your **build.gradle**:
 <br /><br />
 repositories {\
-  maven {\
-    url = "https://github.com/ricksouth/serilum-forge-maven/raw/maven/" \
-  }\
+&nbsp;&nbsp;&nbsp;&nbsp;maven {\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;url = "https://github.com/ricksouth/serilum-forge-maven/raw/maven/" \
+&nbsp;&nbsp;&nbsp;&nbsp;}\
 }
 
 <br /><br />
