@@ -8,6 +8,9 @@ repositories {\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;url = "https://github.com/ricksouth/serilum-forge-maven/raw/maven/" \
 &nbsp;&nbsp;&nbsp;&nbsp;}\
 }
+<br /><br />
+And refresh your workspace by entering the following command in your project folder: \
+**$ gradlew cleanEclipse eclipse --refresh-dependencies**
 
 <br /><br />
 # Active library mods:
