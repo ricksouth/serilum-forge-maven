@@ -1,6 +1,6 @@
 # serilum-forge-maven
-A manual maven for library mods on Serilum's CurseForge.
-
+## A manual maven for library mods on Serilum's CurseForge.
+<br />
 To add the repository to your project, add this to your **build.gradle**:
 <br /><br />
 repositories {\
