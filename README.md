@@ -14,4 +14,9 @@ And refresh your workspace by entering the following command in your project fol
 
 <br /><br />
 # Active library mods:
+- [Collective](https://www.curseforge.com/minecraft/mc-mods/collective)
+
+
+### Discontinued library mods:
 - [Find A Block (FAB) Library](https://www.curseforge.com/minecraft/mc-mods/fab-library)
+- [Spawn A Mob (SAM) Library](https://www.curseforge.com/minecraft/mc-mods/sam-library)
